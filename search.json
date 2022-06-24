@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Title of Next Bestseller",
+    "title": "Surviving Data Science",
     "section": "",
     "text": "Welcome splash page! Provide an overview of the book.\nSample evaluation of R and Python in a side-by-side manner:\n\n\n\n\nmy_list = list(1, 2, 3)\ntypeof(my_list)\n\n\n\nmy_list = [1, 2, 3]\ntype(my_list)"
   },
